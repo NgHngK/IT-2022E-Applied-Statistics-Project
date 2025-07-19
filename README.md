@@ -9,7 +9,7 @@ The dataset used is from the link below:
 
 We perform several methods (logistic regresison, naive bayes, support vectors, decision trees, and random forest) to see the potential of each machine learning models in guessing whether a guess is a potential one that would subscribe to term deposit. 
 
-For details of our work and the contribution of the project, please have a look at the report, which named as "Applied_Statistic_Report.pdf". 
+For details of our work and the contribution of the project, please have a look at the report, which named as "Applied_Statistics_Report.pdf". 
 
 # Result
 This is the comparison chart of all models.
