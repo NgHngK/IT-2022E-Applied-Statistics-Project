@@ -11,12 +11,6 @@ We perform several methods (logistic regresison, naive bayes, support vectors, d
 
 For details of our work and the contribution of the project, please have a look at the report, which named as "Applied_Statistics_Report.pdf". 
 
-# Result
-This is the comparison chart of all models.
-0: not subscribe
-1: do subscribe
-
-![Architecture Diagram](images/model_compare.png)
 
 # Acknowledgment
 This project is built by a group of students at Hanoi University of Science and Technology, Vietnam. Thanks for the contribution from Hoang Trung Dung, Le Minh Kiet, Le Tam Quang, Nguyen Vu Thuy, Nguyen Tat Hung. These authors contributed equally. The order is arbitrary.
